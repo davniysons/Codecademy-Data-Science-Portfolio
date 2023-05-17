@@ -27,3 +27,25 @@ The code is written in Python and uses the pandas library for data analysis. It 
 
 ### Conclusion
  The analysis of the dataset provides useful insights into the medical insurance costs in the US. The findings include the average age of patients, the majority of individuals by region, the cost differences between smokers vs. non-smokers, the average age of someone with at least one child, the BMI differences between smokers and non-smokers, and the average insurance charges for males versus females. These insights can be helpful in making informed decisions about health insurance coverage.
+
+
+ ## 2. Life Expectancy and GDP
+
+### Dataset
+    This dataset provides a snapshot of the relationship between life expectancy at birth and Gross Domestic Product (GDP) for different countries - Chile, China, Germany, Mexico, USA, Zimbabwe - spanning the years from 2000 to 2015. It presents a unique opportunity to analyze and compare how these key indicators of societal well-being and economic health have evolved over time across a diverse set of nations.
+
+### Code
+The code is written in Python and uses the pandas library for data analysis. It performs the following analysis on the dataset:
+
+- Has life expectancy increased over time in the six nations?
+- Has GDP increased over time in the six nations?
+- Is there a correlation between GDP and life expectancy of a country?
+- What is the average life expectancy in these nations?
+- What is the distribution of that life expectancy?
+- GDP and Life Expectancy Change: Analyze the yearly change in GDP and life expectancy for each country. 
+
+### Conclusion
+This analysis provided insights into the dynamics of life expectancy and GDP in six diverse nations from 2000 to 2015.
+While there is a positive correlation between a country's GDP and life expectancy, the relationship is not very strong, indicating that other factors also significantly impact life expectancy.
+Over the years, most nations have seen an increase in both GDP and life expectancy, albeit to varying degrees. Zimbabwe stands out with a dramatic rise in life expectancy, despite a relatively steady GDP.
+The distribution of life expectancy reveals a stark contrast between Zimbabwe and the other five nations, which may be due to various socio-economic factors unique to Zimbabwe.
