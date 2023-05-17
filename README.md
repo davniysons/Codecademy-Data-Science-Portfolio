@@ -32,7 +32,7 @@ The code is written in Python and uses the pandas library for data analysis. It 
  ## 2. Life Expectancy and GDP
 
 ### Dataset
-    This dataset provides a snapshot of the relationship between life expectancy at birth and Gross Domestic Product (GDP) for different countries - Chile, China, Germany, Mexico, USA, Zimbabwe - spanning the years from 2000 to 2015. It presents a unique opportunity to analyze and compare how these key indicators of societal well-being and economic health have evolved over time across a diverse set of nations.
+This dataset provides a snapshot of the relationship between life expectancy at birth and Gross Domestic Product (GDP) for different countries - Chile, China, Germany, Mexico, USA, Zimbabwe - spanning the years from 2000 to 2015. It presents a unique opportunity to analyze and compare how these key indicators of societal well-being and economic health have evolved over time across a diverse set of nations.
 
 ### Code
 The code is written in Python and uses the pandas library for data analysis. It performs the following analysis on the dataset:
